@@ -1,4 +1,3 @@
-This is a test!
-Okay,we test it again!
-Let's fix it!
-
+提示
+这是一个初次使用Cocos做出来的五子棋，甚至没用采用MVC模式。
+如果是初学者，只需要看懂实现逻辑即可，不要模仿写法QAQ。
